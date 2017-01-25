@@ -2,7 +2,7 @@
 
 This application demonstrates a simple, reusable Ruby web application based on the Sinatra framework.
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/ruby-sinatra-helloworld)
 
 ## Run the app locally
 
